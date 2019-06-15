@@ -1,0 +1,6 @@
+/home/paulos/Projects/Poker/Poker/bin/Debug/Poker.exe
+/home/paulos/Projects/Poker/Poker/bin/Debug/Poker.pdb
+/home/paulos/Projects/Poker/Poker/obj/x86/Debug/Poker.csprojAssemblyReference.cache
+/home/paulos/Projects/Poker/Poker/obj/x86/Debug/Poker.csproj.CoreCompileInputs.cache
+/home/paulos/Projects/Poker/Poker/obj/x86/Debug/Poker.exe
+/home/paulos/Projects/Poker/Poker/obj/x86/Debug/Poker.pdb
